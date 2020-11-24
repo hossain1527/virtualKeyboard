@@ -1,0 +1,35 @@
+/***********Set default margin padding**********/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*******Change background color of the body******/
+
+body {
+  background-color: rgb(174, 180, 180);
+  font-family: "Playfair Display", serif;
+}
+
+/************Set overall margin*****************/
+
+.main-body {
+  margin-top: 100px;
+}
+
+/************Desiging of output filed***********/
+
+input {
+  width: 100%;
+  padding: 20px;
+  font-size: 20px;
+  border: none;
+}
+
+/****************Desiging of heading************/
+h2 {
+  letter-spacing: 4px;
+  font-weight: bold;
+}
